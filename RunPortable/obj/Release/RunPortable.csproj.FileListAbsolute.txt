@@ -1,0 +1,33 @@
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\bin\Release\Programda ne programı bilmiom amq.exe.config
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\bin\Release\Programda ne programı bilmiom amq.exe
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\bin\Release\Programda ne programı bilmiom amq.pdb
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\RunPortable.csprojAssemblyReference.cache
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.ErrorBox.resources
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.Main.resources
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.Properties.Resources.resources
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\RunPortable.csproj.GenerateResource.cache
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\RunPortable.csproj.CoreCompileInputs.cache
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda ne programı bilmiom amq.exe
+C:\Users\bir\source\repos\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda ne programı bilmiom amq.pdb
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\bin\Release\Programda ne programı bilmiom amq.exe.config
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\bin\Release\Programda ne programı bilmiom amq.exe
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\bin\Release\Programda ne programı bilmiom amq.pdb
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\RunPortable.csprojAssemblyReference.cache
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.ErrorBox.resources
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.Main.resources
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.Properties.Resources.resources
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\RunPortable.csproj.GenerateResource.cache
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\RunPortable.csproj.CoreCompileInputs.cache
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda ne programı bilmiom amq.exe
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq\Programda ne programı bilmiom amq\obj\Release\Programda ne programı bilmiom amq.pdb
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\bin\Release\RunPortable64.exe.config
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\bin\Release\RunPortable64.exe
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\bin\Release\RunPortable64.pdb
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\RunPortable.csprojAssemblyReference.cache
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.ErrorBox.resources
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\Programda_ne_programı_bilmiom_amq.Main.resources
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\Run_Portable.Properties.Resources.resources
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\RunPortable.csproj.GenerateResource.cache
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\RunPortable.csproj.CoreCompileInputs.cache
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\RunPortable64.exe
+C:\Users\bir\Desktop\Programda ne programı bilmiom amq - Kopya\Programda ne programı bilmiom amq\obj\Release\RunPortable64.pdb
