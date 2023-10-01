@@ -40,10 +40,10 @@
             // ebox_lbl_error
             // 
             this.ebox_lbl_error.AutoSize = true;
-            this.ebox_lbl_error.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
+            this.ebox_lbl_error.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.ebox_lbl_error.Location = new System.Drawing.Point(63, 21);
             this.ebox_lbl_error.Name = "ebox_lbl_error";
-            this.ebox_lbl_error.Size = new System.Drawing.Size(0, 15);
+            this.ebox_lbl_error.Size = new System.Drawing.Size(0, 13);
             this.ebox_lbl_error.TabIndex = 0;
             this.ebox_lbl_error.Click += new System.EventHandler(this.ebox_lbl_error_Click);
             // 
@@ -51,7 +51,7 @@
             // 
             this.ebox_btn_ok.Location = new System.Drawing.Point(518, 13);
             this.ebox_btn_ok.Name = "ebox_btn_ok";
-            this.ebox_btn_ok.Size = new System.Drawing.Size(75, 23);
+            this.ebox_btn_ok.Size = new System.Drawing.Size(75, 26);
             this.ebox_btn_ok.TabIndex = 1;
             this.ebox_btn_ok.Text = "Okay";
             this.ebox_btn_ok.UseVisualStyleBackColor = true;
@@ -85,6 +85,7 @@
             this.Controls.Add(this.ebox_pbox_erroricon);
             this.Controls.Add(this.ebox_lbl_error);
             this.Controls.Add(this.main_pnl_functionpanel);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ErrorBox";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
