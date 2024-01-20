@@ -1,0 +1,11 @@
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\bin\Debug\RunPortable64.exe.config
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\bin\Debug\RunPortable64.exe
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\bin\Debug\RunPortable64.pdb
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\RunPortable.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\Programda_ne_programı_bilmiom_amq.ErrorBox.resources
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\Programda_ne_programı_bilmiom_amq.Main.resources
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\Run_Portable.Properties.Resources.resources
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\RunPortable.csproj.GenerateResource.cache
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\RunPortable.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\RunPortable64.exe
+C:\Users\yavuz\Desktop\RunPortable-main\RunPortable-main\RunPortable\obj\Debug\RunPortable64.pdb

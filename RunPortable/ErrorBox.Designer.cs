@@ -85,8 +85,10 @@
             this.Controls.Add(this.ebox_pbox_erroricon);
             this.Controls.Add(this.ebox_lbl_error);
             this.Controls.Add(this.main_pnl_functionpanel);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "ErrorBox";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Error: 37767";

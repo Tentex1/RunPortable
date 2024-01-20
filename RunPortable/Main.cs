@@ -22,6 +22,11 @@ namespace Programda_ne_programı_bilmiom_amq
         {
             main_textb_commandbox.Focus();
             main_textb_commandbox.Select();
+            Screen screen = Screen.FromControl(this);
+            int left = screen.WorkingArea.Left;
+            int bottom = screen.WorkingArea.Bottom - this.Height; 
+            
+            this.Location = new System.Drawing.Point(left, bottom);
         }
 
         private void main_btn_cancel_Click(object sender, EventArgs e)
@@ -32,8 +37,7 @@ namespace Programda_ne_programı_bilmiom_amq
         private void main_btn_open_Click(object sender, EventArgs e)
         {
             string command = main_textb_commandbox.Text;
-
-            // Kontrol edilecek bir komut var mı?
+            
             if (!string.IsNullOrWhiteSpace(command))
             {
                 try
@@ -53,14 +57,26 @@ namespace Programda_ne_programı_bilmiom_amq
                 error.Show();
             }
         }
-        // This is Bugged normally called main_textb_commandbox
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             bool containsLetter = main_textb_commandbox.Text.Any(char.IsLetter);
+            
+            main_btn_open.Enabled = containsLetter;
+        }
 
-            // Butonun görünürlüğünü ayarla
-            main_btn_open.Visible = containsLetter;
+        private void main_btn_browse_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                openFileDialog.Title = "Dosya Seç";
+                openFileDialog.Filter = "Tüm Dosyalar|*.*";
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    main_textb_commandbox.Text = openFileDialog.FileName;
+                }
+            }
         }
     }
 }
